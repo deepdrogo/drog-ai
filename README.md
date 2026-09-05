@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" width="100%" alt="Drog AI — Unlimited tokens. The fewest limits."/>
 
-<br/><br/>
+<br/>
 
 <img src="assets/icon.png" width="96" alt="Drog AI icon"/>
 
