@@ -146,7 +146,7 @@ flowchart LR
 <td width="50%" valign="top"><b>🛡️ Authorised security testing</b><br/><sub>The CyberSecurity add-on brings recon, scanning and exploitation tooling plus SSH sessions into the editor — for hosts you control.</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><b>🔌 API workloads</b><br/><sub>The developer API runs under the same unlimited terms as the workspace.</sub></td>
+<td colspan="2" valign="top"><b>🔌 API workloads</b><br/><sub>The developer API runs under the same unlimited terms as the workspace.</sub></td>
 </tr>
 </table>
 
